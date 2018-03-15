@@ -1,3 +1,3 @@
 # MyQARepo
 
-This repo has been created for exercise purposes for QA training in Java
+This repo shows projects written in Java while attending a training for QA Consulting in Manchester.
